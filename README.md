@@ -1,4 +1,4 @@
-### Hi! I am Matthew Vandeneberg! 👋
+### Hi! I am Matthew Vandenberg! 👋
 
 ## I'm a Student in High School!
 - 🔭 Check out my [website]!
