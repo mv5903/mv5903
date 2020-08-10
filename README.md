@@ -29,6 +29,8 @@
 [<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg?sanitize=true" />]
 [<img align="left" alt="JQuery" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg?sanitize=true" />]
 [<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg?sanitize=true" />]
+
+<br />
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg?sanitize=true" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg?sanitize=true" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg?sanitize=true" />]
