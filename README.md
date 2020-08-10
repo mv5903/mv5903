@@ -36,7 +36,7 @@
 
 <img align="left" alt="mv5903's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mv5903&show_icons=true&hide_border=true" />
 
-[website]: kwikmatt.ddns.net
+[website]: www.kwikmatt.ddns.net
 [twitter]: https://twitter.com/kwikmatt
 [youtube]: https://www.youtube.com/channel/UCpxpQXZCLXvVk5N9bZIvhBw?view_as=subscriber
 [instagram]: https://instagram.com/kwikmatt
