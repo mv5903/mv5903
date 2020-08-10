@@ -37,10 +37,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg?sanitize=true" />]
 [<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg?sanitize=true" />]
 
-
-
 <br />
-<br />
+
 
 
 <img align="left" alt="mv5903's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mv5903&show_icons=true&hide_border=true" />
