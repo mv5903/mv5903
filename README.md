@@ -4,7 +4,7 @@
 - 🔭 Check out my [website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I love to assist people in technology wherever possible!
-- 🥅 2020 Goals: Learn more programming languages!
+- 🥅 2021 Goals: Make something big!
 - ⚡ Fun fact: I love playing tennis, ping pong, going skiing, and roller blading!
 
 ### Connect With Me:
@@ -19,7 +19,7 @@
 
 <br />
 
-### Languages/Programs I'm Familiar With:
+### Languages and Programs I'm Familiar With:
 
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eclipseide.svg" />
@@ -43,7 +43,7 @@
 <br />
 
 
-<img align="left" alt="mv5903's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mv5903&show_icons=true&theme=dark&hide_border=true" />
+<img align="left" alt="Matt's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mv5903&show_icons=true&theme=dark&hide_border=true" />
 
 [website]: http://mattvandenberg.com
 [twitter]: https://twitter.com/kwikmatt
