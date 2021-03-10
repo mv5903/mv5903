@@ -43,7 +43,7 @@
 <br />
 
 
-<img align="left" alt="mv5903's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mv5903&show_icons=true&hide_border=true" />
+<img align="left" alt="mv5903's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mv5903&show_icons=true&theme=dark&hide_border=true" />
 
 [website]: http://mattvandenberg.com
 [twitter]: https://twitter.com/kwikmatt
