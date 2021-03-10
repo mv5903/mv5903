@@ -45,6 +45,11 @@
 
 <img align="left" alt="Matt's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mv5903&show_icons=true&theme=dark&hide_border=true" />
 
+<br />
+<br />
+
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
+
 [website]: http://mattvandenberg.com
 [twitter]: https://twitter.com/kwikmatt
 [youtube]: https://www.youtube.com/channel/UCpxpQXZCLXvVk5N9bZIvhBw?view_as=subscriber
