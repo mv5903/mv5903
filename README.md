@@ -17,7 +17,7 @@
 [<img align="left" alt="kwikmatt | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stack]
 [<img align="left" alt="kwikmatt | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+<br>
 
 ### Languages and Programs I'm Familiar With:
 
@@ -37,18 +37,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />
 
-
-
-<br />
-<br />
-
+<br>
+<br>
 
 <img align="left" alt="Matt's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mv5903&show_icons=true&theme=dark&hide_border=true" />
-
-<br />
-<br />
-
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mv5903&layout=compact&theme=dark" />
 
 [website]: http://mattvandenberg.com
 [twitter]: https://twitter.com/kwikmatt
