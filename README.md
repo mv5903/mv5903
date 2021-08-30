@@ -1,6 +1,6 @@
 ### Hi! I am Matthew Vandenberg! 👋
 
-## I'm a Student in High School!
+## I'm a Student Attending UC San Diego!
 - 🔭 Check out my [website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I love to assist people in technology wherever possible!
