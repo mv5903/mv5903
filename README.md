@@ -4,7 +4,7 @@
 - 🔭 Check out my [website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I love to assist people in technology wherever possible!
-- 🥅 2021 Goals: Make something big!
+- 🥅 2022 Goals: Land an internship!
 - ⚡ Fun fact: I love playing tennis, ping pong, going skiing, and roller blading!
 
 ### Connect With Me:
