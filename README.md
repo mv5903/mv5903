@@ -2,7 +2,7 @@
 
 <p align="center">
   Connect with Me!<br><br>
-  <img alt="website" width="80px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  <a href="https://www.mattvandenberg.com" target="_blank"><img alt="website" width="80px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
   <img alt="kwikmatt | YouTube" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
   <img alt="kwikmatt | Twitter" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   <img alt="kwikmatt | Instagram" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
