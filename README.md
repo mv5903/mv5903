@@ -27,7 +27,7 @@
 
 <br>
 <p align="center"> 
-  Visitor count<br>
+  Visitor count (since Nov 28 2022)<br>
   <img src="https://profile-counter.glitch.me/mv5903/count.svg" />
 </p>
 
