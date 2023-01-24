@@ -15,7 +15,7 @@
     <img alt="kwikmatt | Instagram" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
   <a href="https://www.facebook.com/mv5903/">
-    <img alt="kwikmatt | Facebook" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+    <img alt="kwikmatt | Facebook" width="80px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-1024.png" />
   </a>
   <a href="https://stackoverflow.com/users/11936557/matthew-vandenberg">
     <img alt="kwikmatt | Stack Overflow" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
